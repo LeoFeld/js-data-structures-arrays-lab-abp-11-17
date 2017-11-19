@@ -26,12 +26,5 @@ function prependDriver() {
 }
 
 function removeLastDriver() {
-  drivers.push("Garfield");
+  drivers.slice("Garfield");
 }
-
-
-
-
-
-
-
