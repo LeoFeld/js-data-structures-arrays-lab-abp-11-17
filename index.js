@@ -24,3 +24,14 @@ function appendDriver() {
 function prependDriver() {
   return anotherArray = ["Arnold", ...drivers];
 }
+
+function removeLastDriver() {
+  drivers.push("Garfield");
+}
+
+
+
+
+
+
+
