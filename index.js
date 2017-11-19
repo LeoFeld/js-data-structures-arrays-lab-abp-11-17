@@ -18,9 +18,9 @@ function destructivelyRemoveFirstDriver() {
 }
 
 function appendDriver() {
-  return appendDriver = [...drivers, "Broom"];
+  return newArray = [...drivers, "Broom"];
 }
 
 function prependDriver() {
-  return prependDriver = ["Arnold", ...drivers];
+  return anotherArray = ["Arnold", ...drivers];
 }
